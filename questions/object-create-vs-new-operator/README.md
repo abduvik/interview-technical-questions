@@ -4,6 +4,8 @@
 
 # YouTube Video
 
+[![youtube thumbnail](http://img.youtube.com/vi/W5IW3HPasp0/0.jpg)](http://www.youtube.com/watch?v=W5IW3HPasp0 "Object.create vs new keyword YouTube video")
+
 ## Answer
 
 ### `new` Operator

@@ -4,6 +4,8 @@
 
 # YouTube Video
 
+[![youtube thumbnail](http://img.youtube.com/vi/ubIAecGLGaM/0.jpg)](http://www.youtube.com/watch?v=ubIAecGLGaM "Different Ways to Create Javascript Objects YouTube video")
+
 ## Answer
 
 1. Simple JSON Object

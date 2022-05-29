@@ -4,6 +4,8 @@
 
 # YouTube Video
 
+[![youtube thumbnail](http://img.youtube.com/vi/PxJ5wzFPTFU/0.jpg)](http://www.youtube.com/watch?v=PxJ5wzFPTFU "dependencies vs devDependencies vs peerDependencies in package.json YouTube video")
+
 ## Answer
 
 ### `dependencies`
