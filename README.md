@@ -6,4 +6,6 @@
 
 ## Questions
 
-- [Dependencies vs DevDependencies vs PeerDependencies](./questions/dependencies-devDependencies-peerDependencies/README.md)
+1. [Dependencies vs DevDependencies vs PeerDependencies](./questions/dependencies-devDependencies-peerDependencies/README.md)
+1. [Different ways to create Objects in Javascript](./questions/creating-javascript-object/README.md)
+1. [Difference `new` Operator and `Object.create`](./questions/javascrpt-prototype/README.md)
