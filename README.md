@@ -9,3 +9,4 @@
 1. [Dependencies vs DevDependencies vs PeerDependencies](./questions/dependencies-devDependencies-peerDependencies/README.md)
 1. [Different ways to create Objects in Javascript](./questions/creating-javascript-object/README.md)
 1. [Difference between `new` Operator and `Object.create`](./questions/javascrpt-prototype/README.md)
+1. [Difference between `call`, `apply` and `bind`](./questions/call-apply-bind/README.md)
